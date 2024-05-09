@@ -1,0 +1,3 @@
+[submodule "grpc-comm-methods"]
+	path = grpc-comm-methods
+	url = git@github.com:aniketcodes/grpc-comm-methods.git
